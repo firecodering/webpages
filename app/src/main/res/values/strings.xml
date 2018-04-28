@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">home3</string>
+    <string name="button1">Google</string>
+    <string name="button2">Yahoo</string>
+    <string name="button3">Msn</string>
+    <string name="button4">westminster</string>
+    <string name="button5">developer.android</string>
+    <string name="button6">cplusplus</string>
+    <string name="button7">Geeksforgeeks</string>
+    <string name="button8">GitHub</string>
+    <string name="text_visit">0</string>
+    <string name="text_url">URL</string>
+    <string name="web_view"></string>
+</resources>
